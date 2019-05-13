@@ -10,8 +10,12 @@ html{
 }
 
 h1{
-	font-family: 'Bangers', cursive;
-	font-size: 15rem;
+	font-family: marydale, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+	font-size: 10rem;
 }
 
 h3{
@@ -44,3 +48,23 @@ p{
     box-shadow: 0 1rem 3rem rgba(0,0,0, 0.2);
     border-radius: 50%;
 }
+
+
+/*
+Marydale Regular
+
+font-family: marydale, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;*/
+
+
+/*
+Marydale Bold
+
+font-family: marydale, sans-serif;
+
+font-weight: 700;
+
+font-style: normal;*/
