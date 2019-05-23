@@ -4,6 +4,9 @@ h1{font-size: 10rem;}
 p,a{font-size: 1.5rem;}
 .navbar-dark .navbar-nav .nav-link {color:#ffffff;}
 
+.black-to-red{color:#212529;transition: 0.3s}
+.black-to-red:hover{color:#EF5A5A; transition: 0.3s}
+
 
 /*MISC*/
 .h-700{height: 700px;}

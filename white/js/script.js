@@ -6,5 +6,10 @@ jQuery(document).ready(function($)
 	  e.preventDefault();
 	  $(this).toggleClass('is-active');
 	});
+	
+	$(document).on('click', '[data-toggle="lightbox"]', function(event) {
+                event.preventDefault();
+                $(this).ekkoLightbox();
+            });
 
 });
